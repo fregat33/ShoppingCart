@@ -1,0 +1,1 @@
+start powershell.exe docker-compose down
